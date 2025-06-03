@@ -38,6 +38,18 @@ Criamos um **ecossistema completo para jogadores**, com foco em um marketplace e
 
 ---
 
+## 🎥 Apresentação em Vídeo
+
+[Assista aqui no YouTube](https://youtu.be/-N-Bg-_WfjI)
+
+---
+
+## 📄 Relatório
+
+[Clique aqui para acessar o relatório em PDF](/relatorio.pdf)
+
+---
+
 ## 📁 Estrutura de pastas
 
 GameSwap-Fase1/
